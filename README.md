@@ -5,10 +5,11 @@ Draft for the actual code repo.
 
 List paths, files and where to find them --
 
-Data are divided into 2 categories:
-1) E-fields: These can be found in the appropriately labelled folders. 
+There are 2 main folders in this repo: 
+
+1) Data: This folder contains subject-specific E-fields for the dlPFC and OFC in the respective sub-folders.  See the README within for more information.
 
 
-3) rs-fMRI data: These are publicly available from the HCP website.
+3) Scripts: This folder contains all the relevant scripts/code used to condcut the analysis for this manuscript. See the README within for more information.
 
 --SH
