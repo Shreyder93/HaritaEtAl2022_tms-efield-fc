@@ -30,6 +30,10 @@ As a result, 3 types of jupyter notebook can be found:
 2) ernie_E_fields_ss_FC - this notebook looks at TMS target connectivity using ernie (normative) E-fields and subject-specific rs-fMRI data.
 3) ss_E_fields_ss_FC - this notebook looks at TMS target connectivity using subject-specific E-fields and subject-specific rs-fMRI data.
 
+The above 3 variations were repeated for the dlPFC and OFC resulting in 6 jupyter notebooks - 3 for dlPFC- and 3 for OFC- TMS connectivty. These are labelled accordingly within the folder.
+
+The 'Statistics.ipynb' does exactly what you'd expect. Here we carry out statistical analysis on our data. This data can be found the data folder as well (within the 'Stats' subfolder). 
+
 The subject IDs of the 12 subjects from the HCP database can be found below (M: male; F: female):
 
 1) 151526 (M)
