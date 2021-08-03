@@ -30,7 +30,7 @@ As a result, 3 types of jupyter notebook can be found:
 
 The above 3 variations were repeated for the dlPFC and OFC resulting in 6 jupyter notebooks - 3 for dlPFC- and 3 for OFC- TMS connectivty. These are labelled accordingly within the folder.
 
-The 'Statistics.ipynb' does exactly what you'd expect. Here we carry out statistical analysis on our data. This data can be found the data folder as well (within the 'Stats' subfolder). 
+The 'Statistics.ipynb' does exactly what you'd expect. Here we carry out statistical analysis on our data. This data can be found in the Data folder (within the 'Stats' subfolder). 
 
 The subject IDs of the 12 subjects from the HCP database can be found below (M: male; F: female):
 
