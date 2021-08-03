@@ -1,6 +1,4 @@
-# Do you even code bro?
-
-Welcome to the Scripts folder!
+# Welcome to the Scripts folder!
 
 Here you can find all the code used to analyze the data and arrive at the results reported in the manuscript.
 
