@@ -1,4 +1,4 @@
-# All about that #Stats life!
+# All about that Stats life!
 
 This folder contains all the essential data that we used to carry out statistical analysis for out manuscript.
 
