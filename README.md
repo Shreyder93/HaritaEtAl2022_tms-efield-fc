@@ -3,8 +3,6 @@
 Draft for the actual code repo.
 
 
-List paths, files and where to find them --
-
 There are 2 main folders in this repo: 
 
 1) Data: 
