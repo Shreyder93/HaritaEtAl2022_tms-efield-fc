@@ -7,7 +7,7 @@
 2 = Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health (CAMH), Toronto  
 3 = Department of Physiology, University of Toronto  
 4 = Department of Psychiatry, University of Toronto  
-* = Corresponding Author  
+'*' = Corresponding Author  
 
 ### Highlights:  
 
