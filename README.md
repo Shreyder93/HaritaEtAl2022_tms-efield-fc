@@ -1,7 +1,7 @@
 # HaritaEtAl2021_tms-efield-fc  
 
 ## Mapping inter-individual functional connectivity variability in TMS targets for major depressive disorder  
-### Shreyas Harita1, 2, Davide Momi2, Frank Mazza2, 3, John D. Griffiths1, 2, 4,*  
+### Shreyas Harita <sup>1, 2</sup>, Davide Momi <sup>2</sup>, Frank Mazza <sup>2, 3</sup>, John D. Griffiths <sup>1, 2, 4, *</sup>
 
 Affiliations:  
 
