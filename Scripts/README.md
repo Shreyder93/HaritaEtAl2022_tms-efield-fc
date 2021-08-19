@@ -19,8 +19,8 @@ E-fields:
 
 rs-fMRI data: 
 
-1) Subject-specific rs-fMRI data (ss_FC)
-2) Group averaged rs-fMRI data (const_FC)
+1) Subject-specific rs-fMRI data (ss_FC)  
+2) Group averaged rs-fMRI data (const_FC) - https://www.humanconnectome.org/study/hcp-young-adult/document/extensively-processed-fmri-data-documentation (HCP_S1200_GroupAvg_v1 Dataset)  
 
 As a result, 3 types of jupyter notebook can be found:
 
@@ -47,3 +47,4 @@ The subject IDs of the 12 subjects from the HCP database can be found below (M: 
 11) 912447 (M)
 12) 990366 (M)
 
+NOTE: The subject specific rs-fMRI data is found within HCP database as well. Use the subject IDs above to acquire each subject's rs-fMRI data. There are 4 rs-fMRI scans per subject. We used the average of these 4 in this study. See the 'Methods' section of the masucript for more information.
