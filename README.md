@@ -1,5 +1,5 @@
 # Mapping inter-individual functional connectivity variability in TMS targets for major depressive disorder  
-## Shreyas Harita <sup>1, 2</sup>, Davide Momi <sup>2</sup>, Frank Mazza <sup>2, 3</sup>, John D. Griffiths <sup>1, 2, 4, *</sup>
+## Shreyas Harita <sup>1, 2</sup>, Davide Momi <sup>2</sup>, Frank Mazza <sup>2, 3</sup>, John D. Griffiths <sup>1, 2, 4, **</sup>
 
 ### Affiliations:  
 
@@ -7,7 +7,7 @@
 2 = Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health (CAMH), Toronto  
 3 = Department of Physiology, University of Toronto  
 4 = Department of Psychiatry, University of Toronto  
-'*' = Corresponding Author  
+** = Corresponding Author  
 
 ### Highlights:  
 
