@@ -38,4 +38,4 @@ The 'Stats' sub-folder contains the relevant data used to conduct the statistica
 
 Please see the README within each folder/sub-folder for more information.
 
-- Shreyas
+If you have any firther question, please contact Shreyas Harita at shreyas.harita@mail.utoronto.ca.
