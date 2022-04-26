@@ -41,3 +41,5 @@ The 'Stats' sub-folder contains the relevant data used to conduct the statistica
 Please see the README within each folder/sub-folder for more information.
 
 If you have any further questions, please contact Shreyas Harita at shreyas.harita@mail.utoronto.ca.
+
+### NOTE: For the sake of simplicity, only 12 subjects' data have been uploaded to this github repo. If you want the subject IDs of all 121 subjects, please email Shreyas. The process for analyzing the data for all subjects is the same. Thanks!  
