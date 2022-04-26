@@ -1,4 +1,4 @@
-# Analysis Code for "Mapping inter-individual functional connectivity variability in TMS targets for major depressive disorder"  
+## Analysis Code for "Mapping inter-individual functional connectivity variability in TMS targets for major depressive disorder"  
 
 ## Shreyas Harita <sup>1, 2</sup>, Davide Momi <sup>2</sup>, Frank Mazza <sup>2, 3</sup>, John D. Griffiths <sup>1, 2, 4, **</sup>
 
