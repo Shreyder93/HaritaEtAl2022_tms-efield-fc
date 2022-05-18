@@ -47,4 +47,4 @@ The subject IDs of the 12 subjects from the HCP database can be found below (M: 
 11) 912447 (M)
 12) 990366 (M)
 
-#### NOTE: The subject specific rs-fMRI data is found within HCP database as well. Use the subject IDs above to acquire each subject's rs-fMRI data. There are 4 rs-fMRI scans per subject. We used the average of these 4 in this study. See the 'Methods' section of the masucript for more information.
+#### NOTE: The subject specific rs-fMRI data is found within HCP database as well. Use the subject IDs above to acquire each subject's rs-fMRI data. There are 4 rs-fMRI scans per subject. We used the average of these 4 in this study. See the 'Methods' section of the manuscript for more information.
